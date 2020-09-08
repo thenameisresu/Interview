@@ -1,0 +1,12 @@
+program1: 
+Write a bool isTransformable(string s1, string s2) function to check that the given strings are tranformable by performing any one of the below operation. we can only do one operation and check that the both strings are same after performing transform. if same return true else false.
+          1. Change of case of single char in any of the string
+             abcde, aBcde
+
+          2. Swap single char in any of the string
+             abcde, adcdb
+
+          3. Addtion/removal single char in any of the string
+             abcde, abcdef
+             ab1cde, abcde
+

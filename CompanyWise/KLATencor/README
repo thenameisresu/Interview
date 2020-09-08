@@ -1,0 +1,4 @@
+program1:
+Daimond mine problem- pick the diamond if val as 1; move left if it find val as -1 then its a blocker, should move downwords once it reaches the end, should traverse back that is to right; if you find val as -1 then move upwards; after collected diamond mark the val to 0.
+program2:
+Find the critical paths.
