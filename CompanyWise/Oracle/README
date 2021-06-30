@@ -4,7 +4,7 @@ Write a bool isTransformable(string s1, string s2) function to check that the gi
              abcde, aBcde
 
           2. Swap single char in any of the string
-             abcde, adcdb
+             abcde, aecdb
 
           3. Addtion/removal single char in any of the string
              abcde, abcdef
